@@ -18,6 +18,7 @@ Check out my blog at [abhipandey.com](http://abhipandey.com).
 Some notable repos here:
 
 - [algo-utils](https://github.com/abhi1010/algo-utils): A collection of trading scripts that I can make public and are useful
+- [backtrader-strategies-compendium](https://github.com/abhi1010/backtrader-strategies-compendium): A repo to help backtest all your `backtrader` strategies
 - [dotfiles](https://github.com/abhi1010/dotfiles): My collection of dotfiles
 - [boost-conan-clang-poc](https://github.com/abhi1010/boost-conan-clang-poc): A conan POC for boost and clang
 - [mention-bot-gitlab](https://github.com/abhi1010/mention-bot-gitlab): Think of it as a gitlab helper that also connects you to slack to help take care of chores
