@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Check out my blog at [abhipandey.com](http://abhipandey.com).
+### Check out my blog at [`abhipandey.com`](http://abhipandey.com).
 
 Some notable repos here:
 
